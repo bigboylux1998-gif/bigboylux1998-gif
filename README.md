@@ -1,41 +1,37 @@
-```markdown
-# 👤 Welcome to my GitHub Profile! 
+<h1 align="center">👋 Welcome to my GitHub!</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Cyber+Investigator)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cyber+Investigator;OSINT+Analyst;Digital+Forensics+Specialist;Python+Automation+Wizard" alt="Typing SVG" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bigboylux1998-gif&color=blue)
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
+</p>
 
----
-
-## 🔍 About Me
-Hi there! I'm **bigboylux1998-gif**, a dedicated Cyber Investigator with a passion for uncovering digital footprints and analyzing online data. My journey in cybersecurity has equipped me with the skills to navigate the vast sea of information and identify potential threats. Whether it's through digital forensics or open-source intelligence (OSINT), I thrive on solving complex puzzles in the cyber realm. 
-
----
-
-## 📡 Tech Stack
-Here are some of the tools and technologies I work with:
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks**: Flask, Django 
-- **Databases**: MySQL, MongoDB
-- **Tools**: Wireshark, Metasploit, Nmap, Maltego
-- **Platforms**: OSINT frameworks, Shodan, Google Dorks
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bigboylux1998-gif&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-## 🌐 GitHub Stats
-### My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigboylux1998-gif&layout=compact&theme=radical)
+## 🧠 About Me
 
-### Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=bigboylux1998-gif&theme=onedark)
+> 🕵️‍♂️ I'm **bigboylux1998-gif**, a relentless **Cyber Investigator** passionate about digital truth.  
+> I specialize in:
+> - Deep OSINT recon
+> - Malware hunting
+> - Threat intelligence
+> - Python-based automation for investigations
+
+<img align="right" src="https://media.giphy.com/media/3o6MbfalvGZ3D2nVte/giphy.gif" width="300" />
 
 ---
 
-## 🔐 Contact
-Feel free to reach out for collaboration or inquiries!  
-- **Email**: bigboylux1998@example.com  
-- **LinkedIn**: [bigboylux1998](https://www.linkedin.com/in/bigboylux1998/)  
-- **Twitter**: [@bigboylux1998](https://twitter.com/bigboylux1998)  
+## 🛠️ Tech Stack
 
-Let’s connect and make the digital world a safer place! 🌍
-```
+```bash
+🧪 LANGUAGES     : Python | JavaScript | Bash | SQL
+🔍 OSINT TOOLS   : Maltego | SpiderFoot | Shodan | FOCA | theHarvester
+🧰 SECURITY TOOLS: Nmap | Wireshark | Metasploit | Burp Suite
+🧠 DATA ANALYSIS : Pandas | SQLite | Kibana | Elasticsearch
+🌐 AUTOMATION    : Flask | Selenium | Playwright | Telethon
