@@ -1,37 +1,42 @@
-<h1 align="center">👋 Welcome to my GitHub!</h1>
+```markdown
+# 🌐 Welcome to the OSINT Realm of **bigboylux1998-gif** 🔍
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cyber+Investigator;OSINT+Analyst;Digital+Forensics+Specialist;Python+Automation+Wizard" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bigboylux1998-gif&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=bigboylux1998-gif&color=blue)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
 
 ---
 
-## 🧠 About Me
+## 🕵️‍♂️ About Me
+As an OSINT Analyst, I specialize in extracting valuable insights from publicly available data. My passion lies in uncovering hidden trends and patterns that can provide actionable intelligence. With a keen eye for detail and a relentless pursuit of truth, I strive to turn data into knowledge. 
 
-> 🕵️‍♂️ I'm **bigboylux1998-gif**, a relentless **Cyber Investigator** passionate about digital truth.  
-> I specialize in:
-> - Deep OSINT recon
-> - Malware hunting
-> - Threat intelligence
-> - Python-based automation for investigations
-
-<img align="right" src="https://media.giphy.com/media/3o6MbfalvGZ3D2nVte/giphy.gif" width="300" />
+Whether it's tracking digital footprints or analyzing social media trends, I believe that every piece of information counts. Let's explore the vast world of open-source intelligence together!
 
 ---
 
-## 🛠️ Tech Stack
+## 📡 Tech Stack
+- **Languages:** Python, JavaScript, SQL
+- **Frameworks:** Flask, Django, Node.js
+- **Tools:** Maltego, Shodan, Recon-ng, SpiderFoot
+- **Databases:** PostgreSQL, MongoDB
+- **Platforms:** Linux, Windows
+- **Visualization Tools:** Tableau, Power BI, Matplotlib
 
-```bash
-🧪 LANGUAGES     : Python | JavaScript | Bash | SQL
-🔍 OSINT TOOLS   : Maltego | SpiderFoot | Shodan | FOCA | theHarvester
-🧰 SECURITY TOOLS: Nmap | Wireshark | Metasploit | Burp Suite
-🧠 DATA ANALYSIS : Pandas | SQLite | Kibana | Elasticsearch
-🌐 AUTOMATION    : Flask | Selenium | Playwright | Telethon
+---
+
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigboylux1998-gif&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=bigboylux1998-gif&theme=onedark)
+
+---
+
+## 🔐 Contact
+Feel free to reach out to me for collaborations or inquiries:
+
+- **Email:** [bigboylux1998@example.com](mailto:bigboylux1998@example.com)
+- **LinkedIn:** [bigboylux1998](https://www.linkedin.com/in/bigboylux1998)
+- **Twitter:** [@bigboylux1998](https://twitter.com/bigboylux1998)
+
+---
+
+Let's connect and unravel the mysteries of the digital world together! 🌍
+```
