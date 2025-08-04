@@ -1,42 +1,73 @@
-```markdown
-# 🌐 Welcome to the OSINT Realm of **bigboylux1998-gif** 🔍
+<h1 align="center">👴 Welcome to the Code Dungeon of <code>bigboylux1998-gif</code></h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bigboylux1998-gif&color=blue)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&center=true&vCenter=true&width=600&lines=Old+School+C%23+Dev+Since+1995;Console+First%2C+GUI+Later;No+AI%2C+Just+Pure+Code..." />
+</p>
 
----
-
-## 🕵️‍♂️ About Me
-As an OSINT Analyst, I specialize in extracting valuable insights from publicly available data. My passion lies in uncovering hidden trends and patterns that can provide actionable intelligence. With a keen eye for detail and a relentless pursuit of truth, I strive to turn data into knowledge. 
-
-Whether it's tracking digital footprints or analyzing social media trends, I believe that every piece of information counts. Let's explore the vast world of open-source intelligence together!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bigboylux1998-gif&color=blue&style=flat-square" />
+</p>
 
 ---
 
-## 📡 Tech Stack
-- **Languages:** Python, JavaScript, SQL
-- **Frameworks:** Flask, Django, Node.js
-- **Tools:** Maltego, Shodan, Recon-ng, SpiderFoot
-- **Databases:** PostgreSQL, MongoDB
-- **Platforms:** Linux, Windows
-- **Visualization Tools:** Tableau, Power BI, Matplotlib
+## 🧓 About Me
+
+🧠 Veteran C# coder with over 30 years in the field  
+💾 Started with MS-DOS, lived through Windows ME, and debugged XP drivers in Notepad  
+🧰 Obsessed with clean IL, WinForms nostalgia, and solving things the hard way
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigboylux1998-gif&layout=compact&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=bigboylux1998-gif&theme=onedark)
+## 🧰 Tech Stack
+
+- **Languages:** C# (1.0 to .NET 8), VB6, C++, Assembly
+- **Frameworks:** WinForms, WPF, WCF, ASP.NET (WebForms too, deal with it)
+- **Tools:** Visual Studio 6.0 → 2022, ILSpy, dnSpy, MSDN CDs
+- **Databases:** MS SQL Server 2000 → 2022, Access 97
+- **OS:** Windows NT → Windows 11
+- **Other:** Registry hacks, COM Interop, P/Invoke, "unsafe" code blocks
 
 ---
 
-## 🔐 Contact
-Feel free to reach out to me for collaborations or inquiries:
+## 💾 Code Snippet
 
-- **Email:** [bigboylux1998@example.com](mailto:bigboylux1998@example.com)
-- **LinkedIn:** [bigboylux1998](https://www.linkedin.com/in/bigboylux1998)
-- **Twitter:** [@bigboylux1998](https://twitter.com/bigboylux1998)
+```csharp
+// Real developers still write this from memory
+using System;
+using System.Windows.Forms;
 
----
-
-Let's connect and unravel the mysteries of the digital world together! 🌍
+public class Program
+{
+    [STAThread]
+    static void Main()
+    {
+        Application.Run(new Form { Text = "Respect the Old Ways", Width = 400, Height = 200 });
+    }
+}
 ```
+
+---
+
+## 🧠 Principles I Code By
+
+> 🛠️ "I don't trust code I didn't write."
+
+> ⚙️ "If it doesn't compile in VS2008, it's not real."
+
+> 🔒 "Dark mode is for the weak. I use classic blue & gray."
+
+---
+
+## 📟 Contact
+
+- **Email:** bigboylux1998@yahoo.com  
+- **LinkedIn:** https://www.linkedin.com/in/bigboylux1998  
+- **GitHub Stats:** Stars fade. Legacy stays.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600">
+</p>
+
+<p align="center"><i>Still here? Open regedit and change something.</i></p>
